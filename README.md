@@ -66,6 +66,10 @@ Some of the areas I'm planning to cover:
 
 LLM gateway architecture, Bedrock, model routing, access controls, budgets, token usage, caching, evals and observability.
 
+### Platform engineering
+
+EKS, workload isolation, infrastructure automation, CI/CD, internal developer platforms and other platform-related work.
+
 ### Engineering metrics
 
 A small serverless implementation for collecting engineering data, processing it and querying it using services such as Step Functions, S3 and Athena.
@@ -73,10 +77,6 @@ A small serverless implementation for collecting engineering data, processing it
 ### Observability
 
 OpenTelemetry, Grafana Alloy, metrics, logs, traces and practical monitoring patterns across AWS and Kubernetes.
-
-### Platform engineering
-
-EKS, workload isolation, infrastructure automation, CI/CD, internal developer platforms and other platform-related work.
 
 ### Reliability
 
