@@ -2,7 +2,7 @@
 
 I'm a **Platform / DevOps Engineer** working across cloud infrastructure, platform engineering, observability and, more recently, AI infrastructure.
 
-Most of my work is around AWS and Kubernetes — designing platforms, automating infrastructure, improving reliability and making things easier for engineering teams to operate.
+Most of my work is around AWS and Kubernetes - designing platforms, automating infrastructure, improving reliability and making things easier for engineering teams to operate.
 
 These days I'm spending a fair amount of time around **AI platforms and LLM infrastructure**, including gateways, Amazon Bedrock, model routing, observability, evaluations and cost controls.
 
